@@ -1,4 +1,4 @@
-# Interactive Game Quiz README
+# Interactive Quiz Game 
 
 This README file provides an overview of the files and instructions for setting up an interactive game quiz using HTML, CSS, and JavaScript.
 
