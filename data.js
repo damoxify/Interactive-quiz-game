@@ -47,5 +47,4 @@ const quizData = [
          Mars has seasons, polar ice caps, volcanoes, canyons, and weather. 
          It has a very thin atmosphere made of carbon dioxide, nitrogen, and argon.`
     },
-    // Add more questions here
 ];
